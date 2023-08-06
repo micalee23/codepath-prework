@@ -2,9 +2,9 @@
 
 Submitted by: Michaela Lee 
 
-ToneTap is an app that changes color when 
+ToneTap is an app that changes the background color for IOS.
 
-Time spent: 2 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
@@ -19,19 +19,13 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## App Brainstorming (Step 4)
 
 ## Notes
-
-It was difficult in the beginning to work with Xcode, but after playing around with 
-it I became more comfortable with the application through troubleshooting. 
+I encountered difficulties while getting familiar with the different aspects of Xcode – understanding how everything worked took some time. When I moved my repository to GitHub, I also had trouble uploading my work using Xcode's Source Control center. Fortunately, I found a video that guided me through the process and helped me overcome the challenge.
 
 ## License
 
