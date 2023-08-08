@@ -1,5 +1,6 @@
 # Prework - ToneTap
 
+
 Submitted by: Michaela Lee 
 
 ToneTap is an app that changes the background color for IOS.
@@ -17,15 +18,15 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Kap 
+<img src='http://g.recordit.co/i0ZPGr5P7Z.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+GIF created with Recordit 
 
 ## App Brainstorming (Step 4)
 
 ## Notes
-I encountered difficulties while getting familiar with the different aspects of Xcode – understanding how everything worked took some time. When I moved my repository to GitHub, I also had trouble uploading my work using Xcode's Source Control center. Fortunately, I found a video that guided me through the process and helped me overcome the challenge.
+I encountered difficulties while getting familiar with the different aspects of Xcode – understanding how everything worked took some time. When I moved my repository to GitHub, I also had trouble uploading my work using Xcode's Source Control center. Fortunately, I found a video that guided me through the process and helped me overcome the challenge. Additionally, I had some trouble using Kap and Giphy to create a valid URL from my GIF, but I managed to troubleshoot and solve the problem.
 
 ## License
 
